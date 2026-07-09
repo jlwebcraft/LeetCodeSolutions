@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -52,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
