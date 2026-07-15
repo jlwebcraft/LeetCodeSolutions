@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
