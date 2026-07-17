@@ -10,16 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -87,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
