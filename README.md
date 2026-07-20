@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [1260-shift-2d-grid](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
