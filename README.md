@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
