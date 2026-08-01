@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
