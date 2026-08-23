@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
+| [1927-sum-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
