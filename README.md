@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [1331-rank-transform-of-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
