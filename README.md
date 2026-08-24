@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/1140-stone-game-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jlwebcraft/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
